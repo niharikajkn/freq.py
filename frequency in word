@@ -1,0 +1,8 @@
+Str 1 =input("Enter a word: ")
+Str 2 =input("Enter the alphabet: ")
+a= Str 1 split(" ")
+count=0
+for i in a 
+    if (i==Str 2)
+    count+=1 
+print(count)
